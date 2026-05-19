@@ -1,0 +1,22 @@
+D:\Web_bussiness\C# WF\RapFinal\BUS\bin\Debug\BUS.dll
+D:\Web_bussiness\C# WF\RapFinal\BUS\bin\Debug\BUS.pdb
+D:\Web_bussiness\C# WF\RapFinal\BUS\bin\Debug\DAL.dll
+D:\Web_bussiness\C# WF\RapFinal\BUS\bin\Debug\DTO.dll
+D:\Web_bussiness\C# WF\RapFinal\BUS\bin\Debug\DTO.pdb
+D:\Web_bussiness\C# WF\RapFinal\BUS\bin\Debug\DAL.pdb
+D:\Web_bussiness\C# WF\RapFinal\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+D:\Web_bussiness\C# WF\RapFinal\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+D:\Web_bussiness\C# WF\RapFinal\BUS\obj\Debug\BUS.csproj.CopyComplete
+D:\Web_bussiness\C# WF\RapFinal\BUS\obj\Debug\BUS.dll
+D:\Web_bussiness\C# WF\RapFinal\BUS\obj\Debug\BUS.pdb
+C:\Users\Acer\Downloads\đồ án 1 thuê\RapFinal\BUS\bin\Debug\BUS.dll
+C:\Users\Acer\Downloads\đồ án 1 thuê\RapFinal\BUS\bin\Debug\BUS.pdb
+C:\Users\Acer\Downloads\đồ án 1 thuê\RapFinal\BUS\bin\Debug\DAL.dll
+C:\Users\Acer\Downloads\đồ án 1 thuê\RapFinal\BUS\bin\Debug\DTO.dll
+C:\Users\Acer\Downloads\đồ án 1 thuê\RapFinal\BUS\bin\Debug\DTO.pdb
+C:\Users\Acer\Downloads\đồ án 1 thuê\RapFinal\BUS\bin\Debug\DAL.pdb
+C:\Users\Acer\Downloads\đồ án 1 thuê\RapFinal\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+C:\Users\Acer\Downloads\đồ án 1 thuê\RapFinal\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Downloads\đồ án 1 thuê\RapFinal\BUS\obj\Debug\BUS.csproj.Up2Date
+C:\Users\Acer\Downloads\đồ án 1 thuê\RapFinal\BUS\obj\Debug\BUS.dll
+C:\Users\Acer\Downloads\đồ án 1 thuê\RapFinal\BUS\obj\Debug\BUS.pdb

@@ -1,0 +1,27 @@
+D:\Web_bussiness\C# WF\RapFinal\GUI\bin\Debug\GUI.exe
+D:\Web_bussiness\C# WF\RapFinal\GUI\bin\Debug\GUI.pdb
+D:\Web_bussiness\C# WF\RapFinal\GUI\bin\Debug\BUS.dll
+D:\Web_bussiness\C# WF\RapFinal\GUI\bin\Debug\DAL.dll
+D:\Web_bussiness\C# WF\RapFinal\GUI\bin\Debug\DTO.dll
+D:\Web_bussiness\C# WF\RapFinal\GUI\bin\Debug\DTO.pdb
+D:\Web_bussiness\C# WF\RapFinal\GUI\bin\Debug\DAL.pdb
+D:\Web_bussiness\C# WF\RapFinal\GUI\bin\Debug\BUS.pdb
+D:\Web_bussiness\C# WF\RapFinal\GUI\obj\Debug\GUI.csproj.AssemblyReference.cache
+D:\Web_bussiness\C# WF\RapFinal\GUI\obj\Debug\GUI.csproj.SuggestedBindingRedirects.cache
+D:\Web_bussiness\C# WF\RapFinal\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+D:\Web_bussiness\C# WF\RapFinal\GUI\obj\Debug\GUI.csproj.CopyComplete
+D:\Web_bussiness\C# WF\RapFinal\GUI\obj\Debug\GUI.exe
+D:\Web_bussiness\C# WF\RapFinal\GUI\obj\Debug\GUI.pdb
+C:\Users\Acer\Downloads\đồ án 1 thuê\RapFinal\GUI\bin\Debug\GUI.exe
+C:\Users\Acer\Downloads\đồ án 1 thuê\RapFinal\GUI\bin\Debug\GUI.pdb
+C:\Users\Acer\Downloads\đồ án 1 thuê\RapFinal\GUI\bin\Debug\BUS.dll
+C:\Users\Acer\Downloads\đồ án 1 thuê\RapFinal\GUI\bin\Debug\DAL.dll
+C:\Users\Acer\Downloads\đồ án 1 thuê\RapFinal\GUI\bin\Debug\DTO.dll
+C:\Users\Acer\Downloads\đồ án 1 thuê\RapFinal\GUI\bin\Debug\DTO.pdb
+C:\Users\Acer\Downloads\đồ án 1 thuê\RapFinal\GUI\bin\Debug\DAL.pdb
+C:\Users\Acer\Downloads\đồ án 1 thuê\RapFinal\GUI\bin\Debug\BUS.pdb
+C:\Users\Acer\Downloads\đồ án 1 thuê\RapFinal\GUI\obj\Debug\GUI.csproj.AssemblyReference.cache
+C:\Users\Acer\Downloads\đồ án 1 thuê\RapFinal\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Downloads\đồ án 1 thuê\RapFinal\GUI\obj\Debug\GUI.csproj.Up2Date
+C:\Users\Acer\Downloads\đồ án 1 thuê\RapFinal\GUI\obj\Debug\GUI.exe
+C:\Users\Acer\Downloads\đồ án 1 thuê\RapFinal\GUI\obj\Debug\GUI.pdb
